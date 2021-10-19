@@ -1,4 +1,4 @@
-# WEBT1320 Project Page
+# WEBT1320 Project page
 
 <h1>Project List</h1>
 
