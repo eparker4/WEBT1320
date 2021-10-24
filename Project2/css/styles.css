@@ -1,0 +1,101 @@
+body {
+    background-color: #73322C;
+    font-family: 'Teko', sans-serif;
+}
+
+#container {
+    background-color: #F2AE2E;
+    width: 900px;
+    margin: 20px auto;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px #fff;
+}
+
+header {
+    padding-top: 20px;
+    background-color: #F2DAAC;
+    border-radius: 20px 20px 0 0;
+}
+
+header img {
+    display: block;
+    width: 30%;
+    margin: 0 auto;
+}
+
+header h1 {
+    font-size: 3em;
+    text-align: center;
+    color: #F2AE2E;
+    font-family: 'Zen Old Mincho', serif;
+    text-shadow: 2px 2px 2px #000;
+}
+
+nav {
+    background-color: #F2AE2E;
+    padding-top: 10px;
+    text-align: center;
+}
+
+nav a {
+    display: inline-block;
+    background-color: #F2DAAC;
+    height: 50px;
+    width: 175px;
+    font-size: 1.5em;
+    font-weight: bold;
+    line-height: 50px;
+    color: #73322C;
+    text-decoration: none;
+    border-radius: 10px 10px 0 0;
+    margin: 0 10px;
+}
+
+nav a:hover {
+    background-color: #73322C;
+    color: #F2DAAC;
+}
+
+main {
+    background-color: #F2DAAC;
+    padding: 20px;
+    margin: 0 20px 20px;
+
+}
+
+main h2 {
+    text-align: center;
+    color: #73322C;
+    font-size: 2em;
+    font-family: 'Zen Old Mincho', serif;
+}
+
+main img {
+    display: block;
+    width: 50%;
+    margin: 20px auto;
+    background-color: #73322C;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+footer {
+    background-color: #F2DAAC;
+    padding: 40px 0;
+    color: #F2AE2E;
+    font-size: 1.5em;
+    text-align: center;
+    border-radius: 0 0 20px 20px;
+}
+
+.active {
+    background-color: #73322C;
+    color: #F2DAAC;
+}
+
+.pro_head {
+    text-align: center;
+    color: #F2AE2E;
+    font-size: 1.5em;
+    font-family: 'Zen Old Mincho', serif;
+}
